@@ -1,4 +1,4 @@
-name: Node.js Package
+name: BruhProx-Core Package
 
 on:
   release:
